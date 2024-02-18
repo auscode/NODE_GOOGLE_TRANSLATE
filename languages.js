@@ -8,6 +8,7 @@
 const langs = {
   auto: 'Automatic',
   af: 'Afrikaans',
+  as: 'Assamese',
   sq: 'Albanian',
   ar: 'Arabic',
   hy: 'Armenian',
